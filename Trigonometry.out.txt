@@ -1,0 +1,93 @@
+Horizontal side length = 5
+
+Vertical side length = 12
+
+Hypotenuse length = 13
+
+Sin x = 12/13
+
+Cos x = 5/13
+
+Tan x = 12/5
+
+Csc x = 13/12
+
+Sec x = 13/5
+
+Cot x = 5/12
+
+
+Horizontal side length = 48
+
+Vertical side length = 55
+
+Hypotenuse length = 73
+
+Sin x = 55/73
+
+Cos x = 48/73
+
+Tan x = 55/48
+
+Csc x = 73/55
+
+Sec x = 73/48
+
+Cot x = 48/55
+
+
+Horizontal side length = 17
+
+Vertical side length = 144
+
+Hypotenuse length = 145
+
+Sin x = 144/145
+
+Cos x = 17/145
+
+Tan x = 144/17
+
+Csc x = 145/144
+
+Sec x = 145/17
+
+Cot x = 17/144
+
+
+Horizontal side length = 99
+
+Vertical side length = 20
+
+Hypotenuse length = 101
+
+Sin x = 20/101
+
+Cos x = 99/101
+
+Tan x = 20/99
+
+Csc x = 101/20
+
+Sec x = 101/99
+
+Cot x = 99/20
+
+
+Horizontal side length = 3
+
+Vertical side length = 4
+
+Hypotenuse length = 5
+
+Sin x = 4/5
+
+Cos x = 3/5
+
+Tan x = 4/3
+
+Csc x = 5/4
+
+Sec x = 5/3
+
+Cot x = 3/4
